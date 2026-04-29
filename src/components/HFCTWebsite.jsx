@@ -1416,16 +1416,16 @@ export default function HFCTWebsite() {
               {[
                 {
                   icon: "📍",
-                  label: "REGISTERED OFFICE",
+                  label: "OFFICE",
                   value:
-                    '"F" Block, No 201, Bharathidasan Street, MMDA Colony, Arumbakkam, Chennai – 600106',
+                    '299/4, Seva old age home, Near, Canara Bank Rd, Begur, Bengaluru, Karnataka - 560114',
                 },
-                {
-                  icon: "🏢",
-                  label: "ALSO AT",
-                  value:
-                    '#51/42, "O" Block, MMDA Colony, Arumbakkam, Chennai – 600106',
-                },
+                // {
+                //   icon: "🏢",
+                //   label: "ALSO AT",
+                //   value:
+                //     '#51/42, "O" Block, MMDA Colony, Arumbakkam, Chennai – 600106',
+                // },
                 { icon: "📞", label: "PHONE", value: "9884557820" },
                 {
                   icon: "✉️",
@@ -1743,9 +1743,9 @@ export default function HFCTWebsite() {
                   marginBottom: 10,
                 }}
               >
-                MMDA Colony, Arumbakkam
+                299/4, Seva old age home, Near, Canara Bank Rd, Begur
                 <br />
-                Chennai – 600106
+                Bengaluru, Karnataka 560114
               </div>
               <div style={{ color: "#86efac", fontSize: 13, marginBottom: 6 }}>
                 📞 9884557820
@@ -1778,7 +1778,7 @@ export default function HFCTWebsite() {
             }}
           >
             <div style={{ color: "#86efac", fontSize: 13 }}>
-              © 2024 Helping Friends Charitable Trust. All rights reserved.
+              © 2026 Helping Friends Charitable Trust. All rights reserved.
             </div>
             <div style={{ color: "#4ade80", fontSize: 12, fontWeight: 600 }}>
               Reg No: 204/IV/2020 &nbsp;•&nbsp; 12A & 80G Registered
