@@ -1416,16 +1416,25 @@ export default function HFCTWebsite() {
               {[
                 {
                   icon: "📍",
+                  label: "HEAD OFFICE",
+                  value:
+                  '#51/42, "O" Block, MMDA Colony, Arumbakkam, Chennai – 600106'
+                    ,
+                },
+                {
+                  icon: "🏢",
                   label: "OFFICE",
                   value:
-                    '299/4, Seva old age home, Near, Canara Bank Rd, Begur, Bengaluru, Karnataka - 560114',
+                  '"F" Block, No 201, Bharathidasan Street, MMDA Colony, Arumbakkam, Chennai – 600106'
+                    ,
                 },
-                // {
-                //   icon: "🏢",
-                //   label: "ALSO AT",
-                //   value:
-                //     '#51/42, "O" Block, MMDA Colony, Arumbakkam, Chennai – 600106',
-                // },
+                {
+                  icon: "🏢",
+                  label: "BRANCH OFFICE",
+                  value:
+                  '299/4, Seva old age home, Near, Canara Bank Rd, Begur, Bengaluru, Karnataka 560114'
+                    ,
+                },
                 { icon: "📞", label: "PHONE", value: "9884557820" },
                 {
                   icon: "✉️",
@@ -1743,9 +1752,9 @@ export default function HFCTWebsite() {
                   marginBottom: 10,
                 }}
               >
-                299/4, Seva old age home, Near, Canara Bank Rd, Begur
+                MMDA Colony, Arumbakkam
                 <br />
-                Bengaluru, Karnataka 560114
+                Chennai – 600106
               </div>
               <div style={{ color: "#86efac", fontSize: 13, marginBottom: 6 }}>
                 📞 9884557820
@@ -1778,7 +1787,7 @@ export default function HFCTWebsite() {
             }}
           >
             <div style={{ color: "#86efac", fontSize: 13 }}>
-              © 2026 Helping Friends Charitable Trust. All rights reserved.
+              © 2024 Helping Friends Charitable Trust. All rights reserved.
             </div>
             <div style={{ color: "#4ade80", fontSize: 12, fontWeight: 600 }}>
               Reg No: 204/IV/2020 &nbsp;•&nbsp; 12A & 80G Registered
